@@ -49,7 +49,7 @@ print(f'One of ITEC 2905s favorite animals is {favorite_animal}')
 
 ## 9. Favorite Weather
 
-favorite_weather = ''
+favorite_weather = '70\'s and sunny'
 print(f'One of ITEC 2905s favorite type of weather is {favorite_weather}')
 
 
